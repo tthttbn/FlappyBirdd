@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\CODEC++\LTNC\SDL\29th3\29th3\main.cpp(193,12): warning C4101: 'e': unreferenced local variable
+D:\CODEC++\LTNC\SDL\29th3\29th3\main.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+D:\CODEC++\LTNC\SDL\29th3\29th3\main.cpp(310,35): warning C4838: conversion from 'size_t' to 'int' requires a narrowing conversion
+D:\CODEC++\LTNC\SDL\29th3\29th3\main.cpp(310,95): warning C4838: conversion from 'size_t' to 'int' requires a narrowing conversion
+  29th3.vcxproj -> D:\CODEC++\LTNC\SDL\29th3\Debug\29th3.exe
